@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Tyler\Documents\learn\vulkan\VulkanTest-Win\Vulkan-Triangle\main.cpp(80,1): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Tyler\Documents\learn\vulkan\VulkanTest-Win\Vulkan-Triangle\main.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 190 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Vulkan-Triangle.vcxproj -> D:\Tyler\Documents\learn\vulkan\VulkanTest-Win\x64\Release\Vulkan-Triangle.exe
